@@ -18,12 +18,20 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![image](https://github.com/lakshmankjolm/Muttiple-capacity-with-infinite-capacity/assets/139963094/3e3d3dae-70b9-46c3-b646-7e8a30e6fc77)
+![image](https://github.com/lakshmankjolm/Muttiple-capacity-with-infinite-capacity/assets/139963094/ffdadd91-0fa0-4c21-9c6e-39de07aa08cf)
 
 
-## Program
+
+## Program:
+![Screenshot 2023-12-21 111240](https://github.com/lakshmankjolm/Muttiple-capacity-with-infinite-capacity/assets/139963094/d15df206-738d-4ace-b55d-02ec3234ddcf)
+
 
 
 ## Output :
+![Screenshot 2023-12-21 111249](https://github.com/lakshmankjolm/Muttiple-capacity-with-infinite-capacity/assets/139963094/25a29234-432f-41b8-a35f-2628c51b0c17)
+
 
 ## Result : 
 
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
